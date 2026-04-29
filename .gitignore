@@ -1,0 +1,45 @@
+# General
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# IDEs
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

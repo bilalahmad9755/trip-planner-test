@@ -1,0 +1,19 @@
+/* App.css - Custom overrides for styles not covered by Tailwind */
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #efe6d8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d3c3ad;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b89d7e;
+}
