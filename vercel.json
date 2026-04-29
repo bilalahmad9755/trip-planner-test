@@ -1,6 +1,5 @@
 {
   "experimentalServices": {
-    "$schema": "https://openapi.vercel.sh/vercel.json",
     "web": {
       "entrypoint": "frontend",
       "routePrefix": "/"
