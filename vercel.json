@@ -6,7 +6,7 @@
     },
     "api": {
       "entrypoint": "backend/core/wsgi.py",
-      "routePrefix": "/"
+      "routePrefix": "/api"
     }
   }
 }
