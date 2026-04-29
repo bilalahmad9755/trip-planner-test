@@ -9,6 +9,13 @@ The app lets a user:
 - simulate FMCSA-style Hours of Service (HOS) / ELD logs
 - render the route, stop timeline, and daily ELD charts in a single-page UI
 
+## Screenshots
+
+![Trip Planner Screen 1](screenshots/screen1.png)
+![Trip Planner Screen 2](screenshots/screen2.png)
+![Trip Planner Screen 3](screenshots/screen3.png)
+![Trip Planner Screen 4](screenshots/screen4.png)
+
 ## Project Structure
 
 ```text
